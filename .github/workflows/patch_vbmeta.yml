@@ -1,7 +1,6 @@
 name: Patch VBMeta
  
 on:
-push:
   workflow_dispatch:
     inputs:
       ARCHITECTURE:
